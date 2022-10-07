@@ -1,12 +1,13 @@
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script>
     const chapters = [
-        '0.html',
-        '1-thepull.html',
-        '2-mindset.html',
-        '3-outcomes.html',
-        '4-distribution.html',
-        '5-how-to-solve.html',
-        '6-marathon.html'
+        '0.md',
+        '1-thepull.md',
+        '2-mindset.md',
+        '3-outcomes.md',
+        '4-distribution.md',
+        '5-how-to-solve.md',
+        '6-marathon.md'
     ];
 
     let links = "";
@@ -18,7 +19,7 @@
         fetch('chapters/'+link)
             .then(response => response.text())
             .then(text => {
-                document.getElementById('text').innerHTML = text;
+                document.getElementById('text').innerHTML = marked.parse(text);
             });
 
         return false;
@@ -29,9 +30,7 @@
 <div id="nav">
 </div>
 
-<pre id="text">
-
-</pre>
+<div id="text"></div>
 
 <script>
     document.getElementById("nav").innerHTML = links;
