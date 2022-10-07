@@ -1,3 +1,5 @@
+# How to solve problem (what to build)
+
 If you’ve been doing the work to understand what outcomes a market segment wants, and what unmet needs they have, it should be easier to solve their problem (aka build the solution). In reality, these are not step by step problems, but iteration loops - iteration on your understanding of market needs, their current solutions, and your possible improved solutions.
 
 It’s important that the pain point is frequent.

@@ -1,3 +1,5 @@
+# Outcomes, humans and our tools
+
 (problem x market)
 
 Takeaway question: If your product does not solve a need/problem, what is the chance that someone will pay for it? What outcome do they want? Be part of a community/interview 1:1.

@@ -1,18 +1,19 @@
+<link rel="stylesheet" href="files/main.css" />
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script>
     const chapters = [
-        '0.md',
-        '1-thepull.md',
-        '2-mindset.md',
-        '3-outcomes.md',
-        '4-distribution.md',
-        '5-how-to-solve.md',
-        '6-marathon.md'
+        { title: 'Intro', link: '0.md' },
+        { title: '1', link: '1-thepull.md' },
+        { title: '2', link: '2-mindset.md' },
+        { title: '3', link: '3-outcomes.md' },
+        { title: '4', link: '4-distribution.md' },
+        { title: '5', link: '5-how-to-solve.md' },
+        { title: '6', link: '6-marathon.md' }
     ];
 
     let links = "";
-    chapters.forEach((link, index) => {
-        links += '<span style="margin-right: 8px;"><a href="#" onclick="return onFetchChapter(\''+link+'\')">'+index+'</a></span>';
+    chapters.forEach((chapter, index) => {
+        links += '<span style="margin-right: 8px;"><a href="#" onclick="return onFetchChapter(\''+chapter.link+'\')">'+chapter.title+'</a></span>';
     })
 
     function onFetchChapter(link) {
@@ -24,13 +25,15 @@
 
         return false;
     }
-</script>
-<style>
-</style>
-<div id="nav">
-</div>
 
-<div id="text"></div>
+    onFetchChapter(chapters[0].link);
+</script>
+<body>
+    <div id="nav">
+    </div>
+
+    <div id="text"></div>
+</body>
 
 <script>
     document.getElementById("nav").innerHTML = links;

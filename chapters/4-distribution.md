@@ -1,3 +1,5 @@
+# For whom? (sales/distribution channel)
+
 Takeaway question: If you can’t find N people willing to pay for your solution, what is the chance?
 
 How to set pricing? What is the specific slice of the market you can sell to, and what’s a signal you see that they’re more likely to buy?

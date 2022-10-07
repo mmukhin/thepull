@@ -1,3 +1,5 @@
+# Mindset & knowing yourself
+
 Why do you want to do this? How can you be mindful of your current skills and tendencies, and mesh them into the goal you want to achieve?
 
 Since this is not easy, the expectation you can have early on would be of “this didn’t work, but my goal is so important to me, that I will continue making progress, even if I don’t feel like it”.
