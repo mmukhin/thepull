@@ -31,7 +31,7 @@ I felt like the pain in the long run (over my life) of not doing something, will
 
 Have you started coding already? Wait, wait, wait, wait!
 
-If I had one piece of advice for myself (or rather, a wish for more self-discipline) - it would be to stop coding, and define the business viability first.
+If I had one piece of advice for myself (or rather, a wish for more self-discipline) - it would be to stop coding, and define how the thing you're coding is going to make money. Then, try to validate that someone will actually pay you this money. I've been caught in the trap of "oh I'll figure out how to get someone to pay me after my product is done" - and its much much harder to do this later, because there's a chance you didn't build the right product that someone would pay you for. Or there's a chance the market is so competitive, you can't get your voice heard, so nobody buys your product. Try your damn hardest to get as close to hearing "here's my credit card number, I want this product tomorrow". In this case, code and don't stop coding, listen to your customer's feedback, and iterate, iterate, iterate. Then repeat the same sales process to get more customers.
 
 Who is going to buy from you, what outcome are they going to buy from you, and why?
 

@@ -163,3 +163,5 @@ Examples from other companies interviewed
 
 
 Have you started coding already? Wait, wait, wait, wait!
+
+Now that you know your ideal customer, their problem, and how you'd find more of them, it's time to solve the problem - you can start to code! :)

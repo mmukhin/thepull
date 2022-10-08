@@ -261,3 +261,5 @@ Sliding scale
 
 
 Have you started coding already? Wait, wait, wait, wait!
+
+The next essay is about distributing your product, which means roughly "finding a repeatable way to sell your product". If you can find some buying "signal" which, once detected, you can contact this prospect and know exactly what to say to close the deal - this is the goal.

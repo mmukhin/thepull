@@ -1,13 +1,16 @@
 # Mindset & knowing yourself
 
-Why do you want to do this? How can you be mindful of your current skills and tendencies, and mesh them into the goal you want to achieve?
+A lot of people **quit**. Let's figure out how not to be one of those people.
 
-Since this is not easy, the expectation you can have early on would be of “this didn’t work, but my goal is so important to me, that I will continue making progress, even if I don’t feel like it”.
+The saying "if you fall, get up, and try again" is 100% accurate when it comes to starting a business. I had ingrained in myself that I didn't have grit or perseverance. When I would quit on projects, I would think "oh well here's that lack of perseverance, always taking the easy way out" - and this was after I had done **months of work**, not days or weeks, but months. At the time, I quit because I had a product, but I didn't know how to sell it.. I kept putting this off and putting this off. Then it bit me in the ass.
+
+Flash forward, after my current business is paying my bills, and I've been able to hire others to help me - I feel like I have grid, and perseverance. I likely had some version of it before, but I used it up too soon, and on the "easy problems" in coding. The hardest problem for me (and lots of others), is "how do I make something that someone will buy". And I kept putting off this problem, for weeks, and months - until I was finished with the product but had no proven way to sell the thing I built. Spending money on ads felt risky, cold calling felt scary, and with some products I built I didn't even know how I was going to make money.
+
+Maybe this is not you, and you have enough common sense to know that a product needs to make money - I would love that for you. The next step, is getting as close as you can to "money in my hand" before spending even a week coding. This would have been unthinkable for me when I was starting out, but it's incredibly important.
+
+Back to the title of the essay, "mindset" - since building a successful business not easy, the mindset you should cultivate early on would be of “this try didn’t work, but my goal is so important to me, that I will continue making progress, even if I don’t feel like it”. Your first task it to figure out exactly how you're going to make money, and to get a money committment from at least 1 person, ideally a few people. Them saying "I will pay when it's done" is nice, but it is not good enough. You need them to either use your product from day 1 in the course of their daily business routine, or actually pre-pay you to build it (i.e. as if you were a dev shop).
 
 If you’ve started projects before, or if this is your first rodeo - know yourself. I had a tendency to go straight to coding, which increased my risk of failure.
-
-
-
 
 Follow a process; keep going, even if its hard; maintain a personal wins document; 
 Main statement to take away
@@ -41,3 +44,5 @@ Examples from other companies interviewed
 
 
 Have you started coding yet? Wait, wait, wait, wait!
+
+Whether or not you have an idea, now you know that getting someone to pay you before spending time coding means that this problem is very imporatnt to them. The following chapters will explain how to think about your potential product from the perspective of your potential customers. Start with the customer, because they are the ones who will (or will not) pay you, because they are seeking some outcome in their life. Either their current tool choices are too inefficient, too expensive, or are not valuable enough - this is your primary goal, to find out what outcome does the person seek, and why are they falling short, or how can you get them to their outcome better, faster, cheaper, or help them make more money.

@@ -64,9 +64,4 @@ Graphs / illustrations
 Examples from other companies interviewed
 
 
-
-
-
-
-
-Have you started coding already? Wait, wait, wait, wait!
+Now that you've been solving the problem, and hopefully you have some customers, this sprint becomes a marathon.

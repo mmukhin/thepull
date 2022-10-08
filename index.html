@@ -13,22 +13,31 @@
 
     let links = "";
     chapters.forEach((chapter, index) => {
-        links += '<span style="margin-right: 8px;"><a href="#" onclick="return onFetchChapter(\''+chapter.link+'\')">'+chapter.title+'</a></span>';
+        links += '<span style="margin-right: 8px;"><a href="#" onclick="return onFetchChapter(\''+index+'\')">'+chapter.title+'</a></span>';
     })
 
-    function onFetchChapter(link) {
-        fetch('chapters/'+link)
-            .then(response => response.text())
-            .then(text => {
-                document.getElementById('text').innerHTML = marked.parse(text);
-            });
+    function onFetchChapter(index) {
+        if (chapters[index] && chapters[index].link) {
+            fetch('chapters/'+chapters[index].link)
+                .then(response => response.text())
+                .then(text => {
+                    window.location = "#"+index;
+                    document.getElementById('text').innerHTML = marked.parse(text);
+                });
 
-        return false;
+            return false;
+        }
     }
 
-    onFetchChapter(chapters[0].link);
+    let index_start = 0;
+    const hash = window.location.hash.substring(1)
+    if (hash) {
+        index_start = hash;
+    }
+    onFetchChapter(index_start);
 </script>
 <body>
+    <b>The Pull</b>
     <div id="nav">
     </div>
 
